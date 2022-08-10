@@ -58,4 +58,6 @@ export async function getStaticProps(context) {
   };
 }
 
+//lala
+
 export default MeetupDetails;
